@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  row_label: MyString
+  is_valid: false
+  method_id: 1
+  top: MyString
+  batch: MyString
+  comments: MyString
+  conc: 1.5
+  date: 2016-09-21 18:07:47
+
+two:
+  row_label: MyString
+  is_valid: false
+  method_id: 1
+  top: MyString
+  batch: MyString
+  comments: MyString
+  conc: 1.5
+  date: 2016-09-21 18:07:47
